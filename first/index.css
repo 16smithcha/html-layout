@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  background-color: gray;
+  height: 200px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.center {
+  display: flex;
+  flex-direction: row;
+  margin-left: 25vw;
+  background-color: white;
+  width: 50vw;
+  height: 600px;
+}
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  margin-left: 25vw;
+  background-color: black;
+  width: 50vw;
+  height: 100px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #d3d3d3;
+}
