@@ -1,0 +1,79 @@
+#header {
+  display: flex;
+  flex-direction: row;
+  height: 20vh;
+  width: 90vw;
+  border-style: solid;
+  border-width: 4px;
+  margin-left: 4vw;
+  margin-top: 20px;
+}
+
+#purple-box {
+  height: 100px;
+  width: 40px;
+  background-color: purple;
+  margin: 40px 0px 10px 10px;
+}
+
+#green-box {
+  height: 135px;
+  width: 350px;
+  background-color: green;
+  margin: 7px 0px 5px 40px;
+}
+
+#blue-circle {
+  height: 135px;
+  width: 135px;
+  border-radius: 50%;
+  background-color: #87b5ff;
+  margin: 7px 0px 5px 40px;
+}
+
+#body-border {
+  display: flex;
+  flex-direction: row;
+  height: 30vh;
+  width: 90vw;
+  border-style: dashed;
+  border-width: 3px;
+  margin-left: 4vw;
+  margin-top: 40px;
+}
+
+#body {
+  height: 20vh;
+  width: 81vw;
+  box-shadow: 5px 5px;
+  margin-left: 4vw;
+  margin-top: 30px;
+  background-color: #f2e8d5;
+}
+
+#footer {
+  align-items: center;
+  height: 40vh;
+  width: 50vw;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #bbb;
+  box-shadow: 5px 5px #bbb;
+  margin-left: 25vw;
+  margin-top: 40px;
+}
+
+#hello {
+  font-size: 50px;
+  color: blue;
+  text-align: center;
+  margin-top: 15vh;
+  margin-bottom: 0px;
+}
+
+#friends {
+  font-size: 50px;
+  color: blue;
+  text-align: center;
+  margin-top: 0px;
+}
